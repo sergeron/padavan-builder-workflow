@@ -1,10 +1,6 @@
-<p align="right">English | <a href="README.ru.md">Русский</a></p>
-
 ## Automatic Padavan firmware builds using GitHub servers
 
 ### Usage
-
-- [Fork this repository](https://github.com/shvchk/padavan-builder-workflow/fork), further steps should be performed in your fork
 
 - Copy your build config to [`build.config`](build.config)
 
